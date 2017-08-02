@@ -181,3 +181,48 @@ footer {
   padding-top: 5px;
   font-size: 13px;
 }
+
+.icon-container{
+  display: inline-block;
+  padding: 20px
+}
+.welcome-item{
+  padding: 82px 1%;
+  display: block;
+  background: #fff;
+}
+.welcome-column h3 {
+  color: #152935;
+  font-size: 24px;
+  font-weight: 300;
+  margin: 20px 0 8px;
+  letter-spacing: -.1px;
+}
+.welcome-column h3.nonibmer-optimize img {
+  height: 35px;
+  width: 35px;
+  margin-right: 10px;
+  vertical-align: top
+}
+.welcome-column-container .welcome-column {
+  padding: 0 50px;
+  position: relative;
+  width: 50%;
+  margin: 0 auto;
+}
+.welcome-column-container {
+  display: flex;
+  padding: 0 15px;
+  max-width: 1170px;
+  margin: auto;
+}
+.welcome-column-container .welcome-column h1.optimize {
+  font-size: 32px;
+  line-height: 50px;
+  font-weight: 500;
+  margin: 20px 0 5px;
+}
+.welcome-container .icon-container img {
+  height: 50px;
+  width: 50px;
+}
